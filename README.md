@@ -1,2 +1,2 @@
 # Multilingual-Online-Translator
-A hyperskill project.
+A hyperskill project on python.
